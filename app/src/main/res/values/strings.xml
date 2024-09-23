@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="ent_day">Введите город</string>
+    <string name="search">Поиск</string>
+    <string name="city">Город</string>
+    <string name="temperature">Температура</string>
+    <string name="air_pressure">Давление воздуха</string>
+    <string name="wind_speed">Скорость ветра</string>
+</resources>
